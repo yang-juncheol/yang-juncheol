@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](
+
 
 <!--
 **yang-juncheol/yang-juncheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
